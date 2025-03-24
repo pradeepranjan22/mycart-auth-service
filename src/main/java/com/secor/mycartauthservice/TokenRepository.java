@@ -1,4 +1,4 @@
-package com.secor.eatnowauthservice;
+package com.secor.mycartauthservice;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;

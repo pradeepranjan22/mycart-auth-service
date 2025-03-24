@@ -1,4 +1,4 @@
-package com.secor.eatnowauthservice;
+package com.secor.mycartauthservice;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

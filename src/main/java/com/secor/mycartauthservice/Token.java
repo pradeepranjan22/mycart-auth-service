@@ -1,4 +1,4 @@
-package com.secor.eatnowauthservice;
+package com.secor.mycartauthservice;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
